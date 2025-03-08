@@ -19,13 +19,101 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. */
+body{
+    background-color: #181818;
+    margin: 0px
+}
+
+/** Links */
+.wrapper a {
+    text-decoration: none;
+}
+.wrapper a:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+/** Wrapper */
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+/** Site header */
+.site-header {
+    position: fixed;
+    width: 100%;
+    min-height: 55.95px;
+    line-height: 54px;
+    background-color: #181818;
+    border-top: 5px solid #999999;
+    border-bottom: 1px solid #404040;
+    top: 0;
+    font: 400 16px / 1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+}
+.site-title {
+    font-size: 1.625rem;
+    font-weight: 300;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    font-size: 1.625rem;
+    font-weight: 300;
+    letter-spacing: -1px;
+    line-height: 54px;
+}
+.site-title, .site-title:visited {
+    color: #a6a6a6;
+}
+.site-nav {
+    padding-top: 15;
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: #181818;
+    border: 1px solid #404040;
+    border-radius: 5px;
+    text-align: right;
+    align-items: center;
+}
+.site-nav .nav-item {
+    display: block;
+    padding: 5px 0;
+    color: #bbbbbb;
+    line-height: 1.5;
+}
+@media screen and (min-width: 600px) {
+    .site-nav {
+        position: static;
+        float: right;
+        border: none;
+        background-color: inherit;
+    }
+    .site-nav .drawer-container, .site-nav .menu-icon, .site-nav label[for="nav-trigger"] {
+        display: none;
+    }
+    .site-nav .slab {
+        display: block;
+        padding-top: 1px;
+    }
+    .site-nav .nav-item {
+        display: inline;
+        padding: 0;
+        margin-left: auto;
+    }
+    .site-nav .nav-item:not(:last-child) {
+        margin-right: 15px;
+    }
+}
+
+
+
 
 .resume{
     width:750px;
-    padding:0px 72px 0px 72px;
+    padding:2px 72px 0px 72px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 72px;
+    margin-top: 80px;
     margin-bottom: 72px;
     background-color:#f9f9f9;
     border:1px solid #ddd;
