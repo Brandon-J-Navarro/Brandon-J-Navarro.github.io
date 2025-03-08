@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My First Post"
-date:   2025-03-06 19:00:00 -0500
-categories: Degree update
+# title:  "My First Post"
+# date:   2025-03-06 19:00:00 -0500
+# categories: Degree update
 ---
 
 I am currently pursuing a Bachelor of Science in Software Engineering at [WGU](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html), a program designed to provide a strong foundation in modern software development and engineering principles. This degree focuses on essential areas such as scripting, programming, web development, mobile application development, user experience design, and software quality assurance.
