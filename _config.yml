@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brandon Navarro Blog
+title: Brandon-J-Navarro.com
 # email: brandon.j.navarro@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog, where I share my real-world experiences in IT, system administration, networking, and software development. From troubleshooting nightmares to coding wins, it’s all here—no fluff, just the raw tech journey. Stick around for lessons learned, tips, and the occasional rant!
