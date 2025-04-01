@@ -54,6 +54,7 @@ SOFTWARE. -->
         .contact{
             text-align:center;
             font-weight: normal;
+            color: rgb(0, 0, 0);
         }
         .intro{
             margin-top:8.0pt;
@@ -124,6 +125,15 @@ SOFTWARE. -->
             border: none rgb(0, 0, 0);
             text-align: center;
         }
+            a:link {
+                color: rgb(0, 0, 0);
+            }
+            a:visited {
+                color: rgb(0, 0, 0);
+            }
+            a:hover {
+                color:#0070C0;
+            }
     </style>
     <head>
         <meta charset="utf-8">
@@ -197,7 +207,7 @@ SOFTWARE. -->
                 </tbody>
             </table> -->
             <div class="flex-table">
-                <p class="headers" style="margin-bottom: 0">SKILLS</p>
+                <p class="headers" style="margin-bottom: 0;margin-top: 15pt">SKILLS</p>
                 <div class="flex-row">
                     <div class="flex-item">Windows Server</div>
                     <div class="flex-item">Windows Hyper-V</div>
@@ -271,6 +281,37 @@ SOFTWARE. -->
             </div>
             <p class="headers">PROFESSIONAL EXPERIENCE</p>
             <p class="work">
+                <strong>System Administrator,&nbsp;</strong>Ironbridge Technologies Inc., Tampa, FL	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nov 2022 – Current
+            </p>
+            <ul class="bullets">
+                <li >Implemented, maintained, and secured on-premises virtual machines and DoD Cloud Computing environments at Impact Levels 4 and 6. Led the deployment of two Azure environments from the ground up, incorporating Azure Disk Encryption, Key Vault, Storage, and Defender for Cloud, maintaining 22 virtual machines.</li>
+                <li >Spearheaded the migration of Azure DevOps databases from Microsoft SQL Server 2019 to Azure SQL Managed Instance. Played a vital role in migrating on-premises virtual machines to remote data centers for the 2023 and 2024 hurricane season, ensuring operational continuity.</li>
+                <li >Developed multiple PowerShell scripts for server management and automation, including a script that migrated 8,000 Trello tasks to Azure DevOps. Created Python scripts for website QA testing, streamlining deployment processes and improving reliability.</li>
+                <li >Provided key support to a web development team, managing IIS Server, DNS Records, SSL Certificates, Active Directory, Domain Controllers, Group Policy Objects, Log File Management, and Microsoft Exchange Server. Maintained and secured Azure Virtual Networks, Network Security Groups, Bastion Host, and Azure AD Domain Services.</li>
+                <li >Ensured secure deployment and management of cloud and on-premises environments by implementing best practices, including DISA STIGs, DKIM, SPF, MX Records, and DMARC reports. Strengthened enterprise security through Azure security policies, automation, and proactive monitoring.</li>
+            </ul>
+            <p class="work">
+                <strong>System Administrator,&nbsp;</strong>United States Marine Corps &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jan 2015 – Oct 2022
+            </p>
+            <ul class="bullets">
+                <li >Spearheaded the installation and maintenance of critical network infrastructure, including 100 computers, 25 phones, 20 switches, six encoders, and extensive copper and fiber optic cabling across multiple locations. Enhanced security by implementing multi-factor authentication and reconfiguring DHCP services for streamlined management.</li>
+                <li >Played a vital role in executing six joint exercises, ensuring 99% network reliability across classified and unclassified networks. Managed weekly security updates, facilitating the secure transfer of two terabytes of sensitive data with zero cybersecurity incidents.</li>
+                <li >Managed and resolved 2000+ service calls and 1000 trouble tickets, significantly reducing ticket resolution time from 250 to 80 hours by optimizing workflows. Provided 200+ hours of technical support during network outages and degraded communications in remote locations.</li>
+                <li >Served as Network Operations Supervisor, leading teams in setting up and securing wireless morale networks, installing 12 new access points, and supporting the rebuilding of classified and unclassified data networks for 2000 personnel across two continents.</li>
+                <li >Designed and implemented a dynamic data architecture supporting virtualized servers for DNS, PKI Logon, email, chat, web services, SharePoint, and VoIP. Oversaw the removal of 3000 meters of degraded cabling and installation of 2000 meters of new network cable, achieving 175% critical network growth.</li>
+            </ul>
+            <p class="headers">EDUCATION</p>
+            <p class="work">
+                <strong>Student,&nbsp;</strong>Western Governors University, B.S. Software Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; November 2023 - January 2028
+            </p>
+            <ul class="bullets">
+                <li >Building a strong foundation in scripting and programming, with completed coursework in Python, enabling efficient problem-solving and automation.</li>
+                <li >Gaining hands-on experience in HTML, CSS, and MySQL to develop and manage responsive, user-friendly websites and applications.</li>
+                <li >Learning best practices for mobile application development and UX design to create intuitive and accessible software solutions.</li>
+                <li >Developing skills in software testing and quality assurance to ensure robust, secure, and high-performing applications.</li>
+                <li >Pursuing AWS, CompTIA, and ITIL® certifications integrated into the curriculum, enhancing job market readiness and career advancement opportunities.</li>
+            </ul>
+             <p class="work">
                 <strong>Student,&nbsp;</strong>Microsoft Software and Systems Academy, Remote &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2022 - November 2022
             </p>
             <ul class="bullets">
@@ -279,35 +320,6 @@ SOFTWARE. -->
                 <li >Configured and deployed DNS, Active Directory, Group Policies, and access authentication.</li>
                 <li >Learned to design and implement Advanced Server and Microsoft Azure Infrastructure solutions.</li>
                 <li >Configured Windows Server and Azure using PowerShell and Graphical User Interface.</li>
-            </ul>
-            <p class="work">
-                <strong>System Administrator,&nbsp;</strong>Joint Communications Support Element, MacDill AFB &nbsp; &nbsp; &nbsp; &nbsp; November 2019 – July 2022
-            </p>
-            <ul class="bullets">
-                <li >Played a vital role in successfully executing six joint exercises, providing network access and availability to classified and unclassified networks resulting in 99% network reliability.</li>
-                <li >Spearheaded the installation of 100 computers and peripherals, 25 phones, 20 networking switches, six encoders, and 300 meters of copper and fiber optic cable across four enclaves to 60 locations aboard a maritime vessel.</li>
-                <li >Managed the download and update of 31 weekly .dat files on a standalone device scanning laptop, maintaining network security, which led to the transfer of two terabytes of time-sensitive data to operation personnel with zero cybersecurity incidents.</li>
-                <li >Volunteered 25 hours to set up and reconfigure wireless morale network services aboard a maritime vessel. Led a team of two in installing 12 new access points and implementing multi-factor authentication, increasing and hardening network security. Reconfigured DHCP services allowing for improved, streamlined management.</li>
-            </ul>
-            <p class="work">
-                <strong>System Administrator,&nbsp;</strong>2D Marine Regiment, Camp Lejeune &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; January 2015 – October 2019
-            </p>
-            <ul class="bullets">
-                <li >Responsible for design, planning, and implementing a dynamic data architecture, hosting virtualized servers providing: DNS, PKI Logon, Exchange email, chat, web, SharePoint, printing, Network File Share (NFS), and voice over IP telephone service.</li>
-                <li >Managed the resolution of 2000+ service calls and 1000 trouble tickets and created over 3000 accounts across classified and unclassified networks.</li>
-                <li >Served as Network Operations Supervisor, improved quality assurance, and reduced the average trouble-ticket resolution time from 250 to 80 hours by refining workflows and process improvements.</li>
-                <li >Assisted with over 200 hours of troubleshooting and technical support during times of network outages and degraded communications at remote locations.</li>
-                <li >Supported the rebuilding of classified and unclassified data networks, which supported over 2000 marines in ten operations and nine bilateral training exercises on two continents</li>
-                <li >Systematically managed the installation and termination of services, 2000 meters of new copper network cable, and fiber optic cabling while simultaneously removing over 3000 meters of degraded cable. This significantly improved network reliability and quality, enabling 175% overall critical network growth.</li>
-            </ul>
-            <p class="headers">Education</p>
-            <p class="work">
-                <strong>Student,&nbsp;</strong>Western Governors University, B.S. Software Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; November 2023 - January 2028
-            </p>
-            <ul class="bullets">
-                <li >bullets</li>
-                <li >bullets</li>
-                <li >bullets</li>
             </ul>
             <p class="headers">AWARDS</p>
             <ul class="bullets" style="margin-bottom: 72px;">
