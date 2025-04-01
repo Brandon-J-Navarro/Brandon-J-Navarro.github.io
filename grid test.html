@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid Table</title>
+    <style>
+        .grid-table {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 5px;
+            border: 1px solid black;
+            padding: 5px;
+            width: 300px;
+        }
+        .grid-item {
+            padding: 10px;
+            border: 1px solid black;
+            text-align: center;
+            background-color: lightgray;
+        }
+        .header {
+            font-weight: bold;
+            background-color: gray;
+        }
+    </style>
+</head>
+<body>
+
+<div class="grid-table">
+    <div class="grid-item header">Name</div>
+    <div class="grid-item header">Age</div>
+    <div class="grid-item header">City</div>
+
+    <div class="grid-item">Alice</div>
+    <div class="grid-item">25</div>
+    <div class="grid-item">New York</div>
+
+    <div class="grid-item">Bob</div>
+    <div class="grid-item">30</div>
+    <div class="grid-item">Los Angeles</div>
+</div>
+
+</body>
+</html>
