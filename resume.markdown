@@ -125,15 +125,15 @@ SOFTWARE. -->
             border: none rgb(0, 0, 0);
             text-align: center;
         }
-            a:link {
-                color: rgb(0, 0, 0);
-            }
-            a:visited {
-                color: rgb(0, 0, 0);
-            }
-            a:hover {
-                color:#0070C0;
-            }
+        a:link {
+            color: rgb(0, 0, 0);
+        }
+        a:visited {
+            color: rgb(0, 0, 0);
+        }
+        a:hover {
+            color:#0070C0;
+        }
     </style>
     <head>
         <meta charset="utf-8">
