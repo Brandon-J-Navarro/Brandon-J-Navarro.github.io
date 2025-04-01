@@ -57,7 +57,7 @@ SOFTWARE. -->
         }
         .intro{
             margin-top:8.0pt;
-            margin-bottom:8.0pt;
+            margin-bottom:0pt;
             line-height:115%;
             color:black;
             text-align:justify;
@@ -108,6 +108,22 @@ SOFTWARE. -->
         tr:nth-child(odd) {
             background-color: #f9f9f9 ;
         }
+        .flex-table {
+            margin-top:0pt;
+            display: flex;
+            flex-direction: column;
+            border: none rgb(0, 0, 0);
+            width: auto;
+        }
+        .flex-row {
+            display: flex;
+        }
+        .flex-item {
+            flex: 1;
+            /* padding: 10px; */
+            border: none rgb(0, 0, 0);
+            text-align: center;
+        }
     </style>
     <head>
         <meta charset="utf-8">
@@ -145,7 +161,7 @@ SOFTWARE. -->
                 <a href="https://github.com/Brandon-J-Navarro" rel="noopener noreferrer" target="_blank">GitHub.com/Brandon-J-Navarro</a>
             </p>
             <p class="intro">System Administrator with eight years of technical experience in the United States Marine Corps, active Top Secret security clearance, and a demonstrated history of providing problem resolution. Customer-facing information technology professional passionate about learning and working with small and large organizations. Oversaw the planning and installations of networks and services, providing customer service and support, and helping resolve customer issues.</p>
-            <table>
+            <!-- <table>
                 <p class="headers" style="margin-bottom: 0">SKILLS</p>
                 <tbody class="skills">
                 <tr>
@@ -179,8 +195,41 @@ SOFTWARE. -->
                     <td>Cybersecurity</td>
                 </tr>
                 </tbody>
-            </table>
-            <table>
+            </table> -->
+            <div class="flex-table">
+                <p class="headers" style="margin-bottom: 0">SKILLS</p>
+                <div class="flex-row">
+                    <div class="flex-item">Windows Server</div>
+                    <div class="flex-item">Windows Hyper-V</div>
+                    <div class="flex-item">Python</div>
+                </div>
+                <div class="flex-row">
+                    <div class="flex-item">Project Planning</div>
+                    <div class="flex-item">Customer Service</div>
+                    <div class="flex-item">Teamwork</div>
+                </div>
+                <div class="flex-row">
+                    <div class="flex-item">Bash Shell</div>
+                    <div class="flex-item">Critical Thinking</div>
+                    <div class="flex-item">Docker</div>
+                </div>
+                    <div class="flex-row">
+                    <div class="flex-item">Virtualization</div>
+                    <div class="flex-item">Continuous Learning</div>
+                    <div class="flex-item">PowerShell</div>
+                </div>
+                <div class="flex-row">
+                    <div class="flex-item">Active Directory</div>
+                    <div class="flex-item">IT Service Management</div>
+                    <div class="flex-item">HTML / CSS</div>
+                </div>
+                <div class="flex-row">
+                    <div class="flex-item">T-SQL</div>
+                    <div class="flex-item">Attention to Detail</div>
+                    <div class="flex-item">Cybersecurity</div>
+                </div>
+            </div>
+            <!-- <table>
                 <p class="headers" style="margin-bottom: 0">CERTIFICATIONS</p>
                 <tbody class="certs">
                     <tr>
@@ -200,7 +249,26 @@ SOFTWARE. -->
                         <td>freeCodeCamp/Microsoft Foundational C#</td>
                     </tr>
                 </tbody>
-            </table>
+            </table> -->
+            <div class="flex-table">
+                <p class="headers" style="margin-bottom: 0">CERTIFICATIONS</p>
+                <div class="flex-row">
+                    <div class="flex-item">CompTIA Secure Cloud Professional</div>
+                    <div class="flex-item">Azure Data Fundamentals DP:900</div>
+                </div>
+                <div class="flex-row">
+                    <div class="flex-item">CompTIA Security+</div>
+                    <div class="flex-item">ITIL Foundations V4</div>
+                </div>
+                <div class="flex-row">
+                    <div class="flex-item">TestOut Network Pro</div>
+                    <div class="flex-item">CompTIA Cloud+</div>
+                </div>
+                    <div class="flex-row">
+                    <div class="flex-item">Azure Fundamentals AZ:900</div>
+                    <div class="flex-item">freeCodeCamp/Microsoft Foundational C#</div>
+                </div>
+            </div>
             <p class="headers">PROFESSIONAL EXPERIENCE</p>
             <p class="work">
                 <strong>Student,&nbsp;</strong>Microsoft Software and Systems Academy, Remote &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2022 - November 2022
