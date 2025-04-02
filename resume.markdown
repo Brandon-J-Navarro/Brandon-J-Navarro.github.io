@@ -170,7 +170,7 @@ SOFTWARE. -->
                 &nbsp;|&nbsp;
                 <a href="https://github.com/Brandon-J-Navarro" rel="noopener noreferrer" target="_blank">GitHub.com/Brandon-J-Navarro</a>
             </p>
-            <p class="intro">System Administrator with eight years of technical experience in the United States Marine Corps, active Top Secret security clearance, and a demonstrated history of providing problem resolution. Customer-facing information technology professional passionate about learning and working with small and large organizations. Oversaw the planning and installations of networks and services, providing customer service and support, and helping resolve customer issues.</p>
+            <p class="intro">System Administrator with ten years of technical experience in the United States Marine Corps and civilian sectors, active cleared talent, with a demonstrated history of providing problem resolution. Customer-facing information technology professional passionate about learning and working with small and large organizations. Oversaw the planning and installations of networks and services, providing customer service and support, and helping resolve customer issues.</p>
             <!-- <table>
                 <p class="headers" style="margin-bottom: 0">SKILLS</p>
                 <tbody class="skills">
