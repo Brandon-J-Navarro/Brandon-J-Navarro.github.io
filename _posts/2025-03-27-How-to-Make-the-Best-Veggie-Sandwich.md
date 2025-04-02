@@ -29,3 +29,5 @@ categories: recipe
 1. Whip the ingredients for the scallion cream cheese together in a small bowl (I used a fork).
 2. Lightly toast the bread. Spread the cream cheese over one side of each pieces of bread.
 3. Pile the vegetables onto the bread, then close. Slice in half and enjoy.
+
+Credit: [https://www.budgetbytes.com/how-to-make-the-ultimate-veggie-sandwich/](https://www.budgetbytes.com/how-to-make-the-ultimate-veggie-sandwich/)

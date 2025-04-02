@@ -22,3 +22,5 @@ categories: recipe
 1. In a large bowl, lightly mash chickpeas with a potato masher or fork. There should be some whole chickpeas left for texture.
 2. Add mayonnaise, buffalo sauce, celery, carrot, green onion, cilantro, sunflower seeds, and salt and pepper. Stir to combine. If the mixture is dry, add more mayonnaise, as needed.
 3. Serve on a warmed tortilla (gluten-free, if required) with toppings of choice. Save in the fridge for up to 5 days.
+
+Credit: [https://butterbetasty.com/recipes/buffalo-chickpea-salad-wraps/](https://butterbetasty.com/recipes/buffalo-chickpea-salad-wraps/)
