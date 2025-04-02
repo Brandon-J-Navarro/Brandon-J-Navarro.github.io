@@ -321,8 +321,9 @@ SOFTWARE. -->
                 <li >Learned to design and implement Advanced Server and Microsoft Azure Infrastructure solutions.</li>
                 <li >Configured Windows Server and Azure using PowerShell and Graphical User Interface.</li>
             </ul>
-            <p class="headers">AWARDS</p>
+            <p class="headers">AWARDS & ACCOLADES</p>
             <ul class="bullets" style="margin-bottom: 72px;">
+                <li>Member of The National Society Of Leadership and Success Western Governors University Chapter - Member Since 2025</li>
                 <li>Joint Service Commendation Medal – 2022 Received for exceptionally meritorious service in support of the Joint Communications Support Element.</li>
                 <li>Joint Service Commendation Medal – 2021 Received for outstanding system administration and technical assistance supporting the Joint Task Force.</li>
                 <li>Navy and Marine Corps Achievement Medal – 2021 Received for extraordinary work ethic and leadership of a technical refresh of a communications suite.</li>
