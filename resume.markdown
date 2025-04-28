@@ -162,10 +162,6 @@ SOFTWARE. -->
         <div class="resume">
             <p class="name">Brandon J. Navarro</p>
             <p class="contact">
-                <a href="mailto:brandon.j.navarro@outlook.com">Brandon.J.Navarro@Outlook.com</a>
-                &nbsp;|&nbsp;
-                <a href="tel:831-588-7092">(831) 588-7092</a>
-                <br/>
                 <a href="https://www.linkedin.com/in/brandon-j-navarro/" rel="noopener noreferrer" target="_blank">LinkedIn.com/in/Brandon-J-Navarro</a>
                 &nbsp;|&nbsp;
                 <a href="https://github.com/Brandon-J-Navarro" rel="noopener noreferrer" target="_blank">GitHub.com/Brandon-J-Navarro</a>
