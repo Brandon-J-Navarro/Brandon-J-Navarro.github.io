@@ -3,7 +3,7 @@ layout: post
 categories: recipe
 ---
 
-![alt text](/media/2025-03-27-BUFFALO-CHICKPEA-SALAD-WRAPS.jpg "Title")
+![alt text](/media/2025-03-27-BUFFALO-CHICKPEA-SALAD-WRAPS.jpg "BUFFALO CHICKPEA SALAD WRAPS")
 ### INGREDIENTS
 * <input type="checkbox" name="uchk"><label for="uchk"> 1 19 oz can chickpeas, drained and rinsed</label>
 * <input type="checkbox" name="uchk"><label for="uchk"> 3 tbsp mayonnaise</label>

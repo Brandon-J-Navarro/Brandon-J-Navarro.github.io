@@ -3,7 +3,7 @@ layout: post
 categories: recipe
 ---
 
-![alt text](/media/2025-03-27-How-to-Make-the-Best-Veggie-Sandwich.png "Title")
+![alt text](/media/2025-03-27-How-to-Make-the-Best-Veggie-Sandwich.png "How to Make the Best Veggie Sandwich")
 ### INGREDIENTS
 
 #### Scallion Cream Cheese
