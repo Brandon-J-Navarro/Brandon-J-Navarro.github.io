@@ -326,11 +326,11 @@ SOFTWARE. -->
                 <li>Navy and Marine Corps Commendation Medal – 2019 Received for meritorious achievement in support of Marines and Resolute Support Mission in Afghanistan.</li>
             </ul>
             <div style="margin-left: auto; margin-right: auto;display: flex;justify-content:space-between;margin-bottom: 72px;">
-                <img src="media\Badages\comptia-cloud-ce-certification.1.png" alt="CompTIA Cloud+" style="width:128px;height:128px;">
-                <img src="media\Badages\comptia-security-ce-certification.png" alt="CompTIA Security+" style="width:128px;height:128px;">
-                <img src="media\Badages\itil-4-foundation.png" alt="ITIL Foundations v4" style="width:128px;height:128px;">
-                <img src="media\Badages\microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" style="width:128px;height:128px;">
-                <img src="media\Badages\microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" style="width:128px;height:128px;">
+                <img src="/media/Badages/comptia-cloud-ce-certification.1.png" alt="CompTIA Cloud+" style="width:128px;height:128px;">
+                <img src="/media/Badages/comptia-security-ce-certification.png" alt="CompTIA Security+" style="width:128px;height:128px;">
+                <img src="/media/Badages/itil-4-foundation.png" alt="ITIL Foundations v4" style="width:128px;height:128px;">
+                <img src="/media/Badages/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" style="width:128px;height:128px;">
+                <img src="/media/Badages/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" style="width:128px;height:128px;">
             </div>
         </div>
     </body>
