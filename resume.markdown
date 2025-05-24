@@ -272,7 +272,7 @@ SOFTWARE. -->
                 </div>
                     <div class="flex-row">
                     <div class="flex-item">Azure Fundamentals AZ:900</div>
-                    <div class="flex-item">freeCodeCamp/Microsoft Foundational C#</div>
+                    <div class="flex-item">AWS Certified Cloud Practitioner</div>
                 </div>
             </div>
             <p class="headers">PROFESSIONAL EXPERIENCE</p>
@@ -308,7 +308,7 @@ SOFTWARE. -->
                 <li >Pursuing AWS, CompTIA, and ITIL® certifications integrated into the curriculum, enhancing job market readiness and career advancement opportunities.</li>
             </ul>
              <p class="work">
-                <strong>Student,&nbsp;</strong>Microsoft Software and Systems Academy, Remote &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2022 - November 2022
+                <strong>Student,&nbsp;</strong>Microsoft Software and Systems Academy, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2022 - November 2022
             </p>
             <ul class="bullets">
                 <li >Selected for a 17-week competitive technical training course developed by Microsoft, learning Server and Cloud Administration, problem-solving, and best practices.</li>
@@ -326,11 +326,12 @@ SOFTWARE. -->
                 <li>Navy and Marine Corps Commendation Medal – 2019 Received for meritorious achievement in support of Marines and Resolute Support Mission in Afghanistan.</li>
             </ul>
             <div style="margin-left: auto; margin-right: auto;display: flex;justify-content:space-between;margin-bottom: 72px;">
-                <img src="/media/Badages/comptia-cloud-ce-certification.1.png" alt="CompTIA Cloud+" style="width:128px;height:128px;">
-                <img src="/media/Badages/comptia-security-ce-certification.png" alt="CompTIA Security+" style="width:128px;height:128px;">
                 <img src="/media/Badages/itil-4-foundation.png" alt="ITIL Foundations v4" style="width:128px;height:128px;">
+                <img src="/media/Badages/comptia-security-ce-certification.png" alt="CompTIA Security+" style="width:128px;height:128px;">
+                <img src="/media/Badages/comptia-cloud-ce-certification.1.png" alt="CompTIA Cloud+" style="width:128px;height:128px;">
                 <img src="/media/Badages/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" style="width:128px;height:128px;">
                 <img src="/media/Badages/microsoft-certified-azure-data-fundamentals.png" alt="Azure Data Fundamentals" style="width:128px;height:128px;">
+                <img src="/media/Badages/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" style="width:128px;height:128px;">
             </div>
         </div>
     </body>
