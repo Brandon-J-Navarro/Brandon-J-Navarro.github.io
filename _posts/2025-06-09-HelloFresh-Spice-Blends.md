@@ -67,7 +67,7 @@ Source: [Source: HelloFresh Spice Blends](https://hellofreshspiceblends.com/)
 - 2 parts dried rosemary
 - 2 parts dried oregano
 - 2 parts garlic powder
-- 1 parts cayenne pepper [7.5 k (hu)]
+- 1 parts cayenne pepper
 - 1 parts ground fennel
 
 [Source: HelloFresh Spice Blends](https://hellofreshspiceblends.com/)
@@ -89,7 +89,7 @@ Source: [Source: HelloFresh Spice Blends](https://hellofreshspiceblends.com/)
 - 4 parts turmeric
 - 4 parts chili powder
 - 4 parts garlic powder
-- 1 parts cayenne pepper [7.5 k (hu)]
+- 1 parts cayenne pepper
 - 1 parts cinnamon
 - 1 parts ground black pepper
 
